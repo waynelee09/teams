@@ -7,13 +7,13 @@
     "homeMain": "002244",
     "homeSecondary": "69BE28",
     "awayText": "002244",
-    "awayMain": "000000",
+    "awayMain": "FFFFFF",
     "awaySecondary": "69BE28"
   },
   {
-    "city": "Los Angeles",
-    "mascot": "Rams",
-    "short": "LAR",
+    "city": "Memorial ",
+    "mascot": "Red Devils ",
+    "short": "MEM",
     "homeText": "FFD100",
     "homeMain": "003594",
     "homeSecondary": "FFD100",
@@ -299,7 +299,7 @@
   {
     "city": "Jefferson Area",
     "mascot": "Ironman",
-    "short": "Jef ",
+    "short": "Jef",
     "homeText": "FFFFFF",
     "homeMain": "0C2340",
     "homeSecondary": "4B92DB",
